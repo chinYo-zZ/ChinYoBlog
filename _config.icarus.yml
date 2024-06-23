@@ -231,17 +231,17 @@ widgets:
         # Author name
         author: ChinYo
         # Author title
-        author_title: 2402044010
+        author_title: rintaro.okabe@foxmail.com
         # Author's current location
-        location: 当然是未知！
+        location: 知识之海！
         # URL or path to the avatar image
-        avatar: /img/001.jpg
+        avatar: /img/001.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: https://space.bilibili.com/431728187?spm_id_from=333.1007.0.0
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
