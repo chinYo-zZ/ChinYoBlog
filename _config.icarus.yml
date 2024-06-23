@@ -229,11 +229,11 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: ChinYo
         # Author title
-        author_title: Your title
+        author_title: 
         # Author's current location
-        location: Your location
+        location: 当然是未知！
         # URL or path to the avatar image
         avatar: 
         # Whether show the rounded avatar image
