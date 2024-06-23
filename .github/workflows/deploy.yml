@@ -40,7 +40,7 @@ jobs:
 
       - name: Deploy to GitHub Pages
         env:
-          GH_TOKEN: ${{ secrets.XYX_TOKEN }}
+          XYX_TOKEN: ${{ secrets.XYX_TOKEN }}
         run: |
           cd public/
           git init
