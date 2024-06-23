@@ -235,7 +235,7 @@ widgets:
         # Author's current location
         location: 知识之海！
         # URL or path to the avatar image
-        avatar: /img/001.png
+        avatar: /source/gallery/001.png
         # Whether show the rounded avatar image
         avatar_rounded: false
         # Email address for the Gravatar
