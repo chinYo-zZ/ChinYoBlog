@@ -1,13 +1,13 @@
 ---
 title: C++ 反射
-date: 2024-06-24 22:50:34
-tags:
+date: 2024-04-24 22:50:34
+tags: C++
 ---
 c++构建反射系统的学习记录
 ## 一、类对象反射
 当前框架
 
-![alt text](image01.png)
+<div align=center><img  alt="输出测试" src="C-Reflect/image01.png"/></div>
 
 首先进行工厂的搭建：ClassFactory
 
@@ -158,6 +158,5 @@ int main()
 
 }
 ```
-输出测试
-![test](image02.png)
+<div align=center><img  alt="输出测试" src="C-Reflect/image02.png"/></div>
 ## 二、类成员数据反射
