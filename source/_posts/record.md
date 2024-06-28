@@ -9,6 +9,7 @@ tags:
   - Hexo
 categories:
   - Hexo
+sitemap: true
 ---
 
 # 参考文章
