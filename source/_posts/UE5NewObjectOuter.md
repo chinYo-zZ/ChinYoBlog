@@ -7,7 +7,8 @@ sitemap: true
 ---
 
 在创建对象的过程中，使用NewObejct等一系列创建对象的函数的时候，会看到Outer参数，在官方文档中，参数的意思为：
-![alt text](image.png)
+<div align=center><img  alt="官方解释" src="image.png"/></div>
+
 看到这样的描述其实是很难意会的
 
 深入源码,直到看到new

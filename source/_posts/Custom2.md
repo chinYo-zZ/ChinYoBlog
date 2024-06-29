@@ -38,7 +38,7 @@ void FHtnAssetEditorModule::StartupModule()
 
 ## 新建节点
 
-![alt text](image.png)
+<div align=center><img  alt="示例" src="image.png"/></div>
 
 创建新的GraphSchema继承自UEdGraphSchema，再创建节点行为继承自FEdGraphSchemaAction
 
@@ -104,7 +104,8 @@ _workingGraph = FBlueprintEditorUtils::CreateNewGraph
 
 ## 节点行为
 
-![alt text](image04.png)
+<div align=center><img  alt="示例" src="image04.png"/></div>
+
 
 创建自己的节点
 ```C++
