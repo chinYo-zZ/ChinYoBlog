@@ -65,4 +65,4 @@ deploy:
   repo: https://github.com/chinYo-zZ/ChinYoBlog.git
   branch: gh-pages
 sitemap:
-	path: sitemap.xml
+  path: sitemap.xml
