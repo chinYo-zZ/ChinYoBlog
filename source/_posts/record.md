@@ -1,11 +1,9 @@
 ---
-title: 留着自己参考的
+title: 如何优雅的使用Github Action服务来将Hexo部署到Github Pages
 date: 2024-06-19 12:31:53
 cover: 
 thumbnail: 
 tags:
-  - 个人博客
-  - 网站
   - Hexo
 categories:
   - Hexo
