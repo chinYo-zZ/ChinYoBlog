@@ -231,7 +231,7 @@ widgets:
         # Author name
         author: ChinYo
         # Author title
-        author_title: rintaro.okabe@foxmail.com
+        author_title: 若图片不加载请进入页面详情阅读
         # Author's current location
         location: 知识之海！
         # URL or path to the avatar image
@@ -247,13 +247,13 @@ widgets:
             Github:
                 icon: fab fa-github
                 url: https://github.com/chinYo-zZ
-            Facebook:
+            bilibili:
                 icon: fab fa-bilibili
                 url: https://space.bilibili.com/431728187?spm_id_from=333.1007.0.0
-            Twitter:
+            qq:
                 icon: fab fa-qq
                 url: https://qm.qq.com/q/slXJuQ2u7A
-            Dribbble:
+            zhihu:
                 icon: fab fa-zhihu
                 url: https://www.zhihu.com/people/486-53-90
             RSS:
