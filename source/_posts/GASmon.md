@@ -6,7 +6,9 @@ categories: UE5
 sitemap: true
 ---
 # PlayMontageAndWait源码解析
-![alt text](image.png)
+
+<div align=center><img  alt="蓝图节点" src="image.png"/></div>
+
 
 声明的四个委托分别对应四个异步Exec
 ```C++
