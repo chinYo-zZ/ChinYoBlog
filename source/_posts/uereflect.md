@@ -33,7 +33,7 @@ Unreal Engine（UE）实现反射机制是为了提供一种灵活且强大的�
 
 ## 函数接口
 ### GetClass()
-GetClass() 的作用就是我们生成一个UObject实例后，去拿这个实例的UClass
+GetClass() 的作用就是我们生成一个UObject实例后，去拿这个实例的UClass，如果是父类指针，拿到的是当前实际类型的Class
 ### GetStaticClass()
 不需要有UObject实例也能拿到某个类的UClass,初始化的默认值
 ### ClassDefaultObject()
