@@ -1,5 +1,5 @@
 ---
-title: UE5 使用Fromat创建更高效的Log
+title: UE5 使用Fromat创建格式化的UELog
 date: 2024-06-28 13:49:22
 tags: UE5
 categories: UE5
