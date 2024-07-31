@@ -41,7 +41,7 @@ FString* OutFixedString = nullptr);
 bool MatchesTag(
 const FGameplayTag& TagToCheck) const;
 ```
-![alt text](image.png)
+<div align=center><img  alt="示例" src="image.png"/></div>
 是否匹配父标记
 
 * **MatchesTagExact**
@@ -55,7 +55,7 @@ const FGameplayTag& TagToCheck) const
 
     蓝图中使用bool变量选择
 
-![alt text](image-2.png)
+<div align=center><img  alt="示例" src="image-2.png"/></div>
 
 * **MatchesTagDepth**
 
@@ -63,7 +63,7 @@ const FGameplayTag& TagToCheck) const
 int32 MatchesTagDepth(
 const FGameplayTag& TagToCheck) const;
 ```
-![alt text](image-1.png)
+<div align=center><img  alt="示例" src="image-1.png"/></div>
 根据标签匹配数量返回整数
 
 

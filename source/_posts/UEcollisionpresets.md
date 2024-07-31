@@ -8,7 +8,7 @@ sitemap: true
 
  **给项目添加碰撞预设**
 
-![alt text](image.png)
+<div align=center><img  alt="示例" src="image.png"/></div>
 
 碰撞通道可以在引擎中添加
 
@@ -30,4 +30,4 @@ HelpMessage="Overlaps Pawns and AbilityOverlapProjectile")
 可以根据参数名称去搜索枚举
 
 比如CollisionEnabled，如下
-![alt text](image-1.png)
+<div align=center><img  alt="示例" src="image-1.png"/></div>
