@@ -6,7 +6,7 @@ categories: C++
 ---
 **目录**
  - [代码示例](#代码示例)
- - [std::move](#std::move)
+ - [std::move](#stdmove)
  - [完美转发](#完美转发)
 
 # 代码示例

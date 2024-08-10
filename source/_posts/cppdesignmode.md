@@ -1,5 +1,5 @@
 ---
-title: cppdesignmode
+title: 游戏开发中经常用到的设计模式
 date: 2024-07-30 21:25:35
 tags: C++
 categories: C++
