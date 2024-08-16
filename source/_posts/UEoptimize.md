@@ -6,7 +6,8 @@ categories: UE5
 sitemap: true
 ---
 ## 瓶颈定位 
-![alt text](image.png)
+<div align=center><img  alt="主要线程" src="image.png"/></div>
+
  - Game Thread 首先会对整个游戏世界进行逻辑层面的计算与模拟(e.g.Spawn 多少个新的 actor、每个 actor 在这一帧位于何处、角色移动、动画状态等等)，所有这些信息会被输送到 Draw Thread
  - Draw Thread(也叫 Rendering Thread) 会根据这些信息，剔除(Culling)掉不需要显示的部分(e.g. 处于屏幕外的物体)，接着创建一个列表，其中包含了渲染每个物体必备的关键信息(e.g. 如何被着色、映射哪些纹理等等)，再将这个列表输送给 GPU Thread
  - GPU Thread 在获取了这个列表之后，会计算出每个像素最终需要如何被渲染在屏幕上，形成这一帧的画面
