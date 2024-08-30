@@ -11,12 +11,12 @@ sitemap: true
 
 使用此宏可以在不将引用标记为const的情况下使其在蓝图中变成输入
 
-不加const或者UPARAM(ref)的情况下蓝图会将引用变为<font color="#00FFFF">输出</font> 
+不加const或者UPARAM(ref)的情况下蓝图会将引用变为<font color="#0080c0">输出</font> 
 
  ## AutoCreateRefTerm
 
  <div align=center><img  alt="示例" src="image1.png"/></div>
 
-使用此说明符，蓝图会自动创建引用（在蓝图中<font color="#00FFFF">const &</font> 没有输入的情况下会报错），不需要手动创建
+使用此说明符，蓝图会自动创建引用（在蓝图中<font color="#0080c0">const &</font> 没有输入的情况下会报错），不需要手动创建
 
 未完待续。。。
