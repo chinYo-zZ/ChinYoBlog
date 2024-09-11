@@ -21,7 +21,6 @@ sitemap: true
 
 文章中出现的yourusername为Github用户名，your-repo为仓库名。
 
-
 # 1. 初始化Hexo
 安装脚手架，初始化hexo，这会新建blog文件夹，进入后安装依赖。
 ```bash
